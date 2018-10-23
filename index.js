@@ -1,7 +1,7 @@
 const Discord = require("discord.js");
 const db =("quick.db");
 
-const TOKEN = "NTA0MjAzNTY2MDY4NzkzMzU2.DrBxzg.tbgTbVygGqcSCN_FRd-UbigfWiU"
+const TOKEN = "ggggggggggggggg"
 const PREFIX = "g:"
 
 var fortunes = [
