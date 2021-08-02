@@ -1,9 +1,6 @@
 const Discord = require("discord.js");
 const db =("quick.db");
 
-const TOKEN = "ggggggggggggggg"
-const PREFIX = "g:"
-
 var fortunes = [
     "Iya",
     "Kayaknya",
@@ -18,7 +15,7 @@ var bot = new Discord.Client();
 
 bot.on("ready", function() {
     console.log("Ntapp");
-    bot.user.setActivity("g:help", { type: "PLAYING" })  // Set the bot's PLAYING/STREAMING/LISTENING/WATCHING status (.help | discord.gg/nNapvDU)
+    bot.user.setActivity("your custom status", { type: "PLAYING" })  // Set the bot's PLAYING/STREAMING/LISTENING/WATCHING status (.help | discord.gg/nNapvDU)
     bot.user.setStatus("online")  // Set the bot's online/idle/dnd/invisible status
 });
 
