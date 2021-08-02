@@ -38,7 +38,7 @@ bot.on("message", function(message) {
             break;
         case "botstats":
             var embed = new Discord.RichEmbed()
-                .setAuthor("Zalveey's Stats")
+                .setAuthor("Hiroke's Stats")
                 .setDescription("Stats of the bot")
                 .addField("Server", bot.guilds.size)
                 .addField("Channel", bot.channels.size)
