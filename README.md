@@ -27,7 +27,7 @@ AeroNetwork
 Join [Support Server](https://discord.gg/Y4hc7txU) to contribution
 
 ### License
-Hiroke is Licensed under the [MIT License](https://github.com/Hikarei-id/Hiroke/blob/master/LICENSE)
+Verion is Licensed under the [MIT License](https://github.com/Hikarei-id/Hiroke/blob/master/LICENSE)
 
 <a href="https://top.gg/bot/784612789049360415">
   <img src="https://top.gg/api/widget/784612789049360415.svg">
