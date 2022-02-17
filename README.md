@@ -1,17 +1,34 @@
-[![Build Passing](https://img.shields.io/badge/build-Passing%20-green.svg?style=flat)](https://github.com/Hikarei-id/Hiroke) [![Status Online](https://img.shields.io/badge/status-Online%20-brightgreen.svg?style=flat)](https://stats.uptimerobot.com/9gzBWFml1O)![Build With](https://forthebadge.com/images/badges/built-with-love.svg)[![Bot Code Library](https://img.shields.io/badge/code-discord.js-yellowgreen.svg)](https://discord.js.org/#/) 
+[![Discord](https://cdn.discordapp.com/attachments/743750823628111922/918706369799012402/standard_1.gif)](https://discord.gg/wdNMKGdNym)
 
-### Hiroke Bots
-A basic Discord Bots 
-[![Website]](https://github.com/Hikarei-id/Hiroke)
+Hi, I am Verion, bot with High Quality & Economy, RPG Moderation and
+always Online. Support me by voting bot for better bot.... 
 
-### Please Note
-•  Please make sure you run the help command as `Hiroke` requires a certain channel
+# VerionBot
+[![Discord Bots](https://discordbots.org/api/widget/status/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)  [![Discord Bots](https://discordbots.org/api/widget/servers/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)  [![Discord Bots](https://discordbots.org/api/widget/lib/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)
 
-### Monitoring
-<a href="http://81.169.230.19:19999/#menu_system;theme=slate">
-<img src="https://cdn.discordapp.com/attachments/396964573007052800/549687338352115715/netdata.gif" alt="Netdata"/></a>
+## Info
+● Version: 4.5.0
+● 99% Uptime 24/7
+● High Quality Bot
 
-### Contribute with me ❤
+## Categories
+
+- [x] Info
+- [x] Economy
+- [x] RPG
+- [x] Utility
+
+## Team
+VNinky
+⭐Stars Trix Development™
+AeroNetwork
+
+## Contribution
+Join [Support Server](https://discord.gg/Y4hc7txU) to contribution
 
 ### License
 Hiroke is Licensed under the [MIT License](https://github.com/Hikarei-id/Hiroke/blob/master/LICENSE)
+
+<a href="https://top.gg/bot/784612789049360415">
+  <img src="https://top.gg/api/widget/784612789049360415.svg">
+</a>
