@@ -4,7 +4,7 @@ Hi, I am Verion, bot with High Quality & Economy, RPG Moderation and
 always Online. Support me by voting bot for better bot.... 
 
 # VerionBot
-[![Discord Bots](https://discordbots.org/api/widget/status/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)  [![Discord Bots](https://discordbots.org/api/widget/servers/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)  [![Discord Bots](https://discordbots.org/api/widget/lib/784612789049360415.svg)](https://discordbots.org/bot/784612789049360415)
+[![Discord](https://discordbotlist.com/api/v1/bots/784612789049360415/widget)](https://discord.gg/wdNMKGdNym)
 
 ## Info
 ● Version: 4.5.0
@@ -13,10 +13,10 @@ always Online. Support me by voting bot for better bot....
 
 ## Categories
 
-- [x] Info
-- [x] Economy
-- [x] RPG
-- [x] Utility
+- ✓ Info
+- ✓ Economy
+- ✓ RPG
+- ✓ Utility
 
 ## Team
 VNinky
@@ -28,7 +28,3 @@ Join [Support Server](https://discord.gg/Y4hc7txU) to contribution
 
 ### License
 Verion is Licensed under the [MIT License](https://github.com/Hikarei-id/Hiroke/blob/master/LICENSE)
-
-<a href="https://top.gg/bot/784612789049360415">
-  <img src="https://top.gg/api/widget/784612789049360415.svg">
-</a>
